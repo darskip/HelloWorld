@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world! Version number 1." << endl;
+    cout << "Hello world! Version number 2." << endl;
     return 0;
 }
